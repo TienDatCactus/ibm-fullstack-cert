@@ -1,0 +1,37 @@
+- preliminary: sơ bộ
+- determine: xác định
+- thoroughly: kỹ lưỡng
+- encompass: bao gồm
+- adhere: tuân thủ
+- breaking down: chia nhỏ
+- incorporates: kết hợp
+- entails: đòi hỏi
+- attributes: thuộc tính
+- fulfill: đáp ứng
+- defects: lỗi
+- conventions: quy ước
+- programmatic: về mặt chương trình
+- stylistic: về mặt lập trình
+- flaw: lỗi
+- intents: mục đích
+- elaborate: giải thích
+- eliciting: gợi ý
+- key personnel: nhân sự chủ chốt
+- interchangeably: có thể thay thế cho nhau
+- MVP: minimum viable product: sản phẩm khả thi tối thiểu
+- comprehensive: toàn diện
+- articulate: nêu rõ
+- minor: nhỏ
+- compliance: tính tuân thủ
+- formal: trang trọng, chính thức
+- pertain: liên quan
+- troubleshoot: khắc phục sự cố
+- accompany: đi kèm
+- facilitate: tạo điều kiện
+- regarding: về
+- intuitive: trực quan
+- robust: mạnh mẽ
+- incorporate: làm việc cùng, kết hợp
+- employ: sử dụng
+- bridge: cầu, kết nối
+- flair: phong cách

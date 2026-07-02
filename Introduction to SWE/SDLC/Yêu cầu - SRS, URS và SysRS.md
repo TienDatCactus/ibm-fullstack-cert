@@ -1,0 +1,24 @@
+Các bước để thu thập yêu cầu:
+- Xác định các bên liên quan
+	- Nhân sự chủ chốt:
+		- Người đưa ra quyết định
+		- End-users
+		- System admin
+		- Engineering
+		- Marketing
+		- Sales
+		- Customer Support
+- Xác định mục đích và mục tiêu
+	- Goals: kết quả từ khách hàng hoặc mục tiêu kinh doanh
+	- Objectives: những hành động có thể hành động và đo lường để đạt được tới mục đích đã đề ra
+- Gợi ý các yêu cầu từ các bên liên quan
+	- Survey, interview
+- Ghi chép (documenting) các yêu cầu
+	- Phù hợp với mục đích và mục tiêu
+	- Dễ hiểu 
+- Phân tích và xác nhận các yêu cầu
+	- Cần được chia sẻ và chấp thuận bởi các bên liên quan
+- Sắp xếp mức độ ưu tiên
+	- must-have
+	- highly desired
+	- nice to have

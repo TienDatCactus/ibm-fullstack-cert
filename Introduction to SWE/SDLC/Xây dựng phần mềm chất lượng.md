@@ -1,0 +1,44 @@
+Các quy trình phần mềm phổ biến
+- Thu thập yêu cầu: SRS
+	- Bao gồm việc thu thập và ghi chép các bộ yêu cầu mà phần mềm cần tuân thủ
+	- Có thể bao gồm bộ các use case để mô tả nhu cầu business và luồng người dùng mà phần mềm phải triển khai
+	- Các yêu cầu phần mềm phân ra làm 4 loại:
+		- Functional
+		- External & user interface (UI)
+		- System features
+		- Non-functional
+- Thiết kế
+	- Chuyển đổi các yêu cầu -> code (software solutions)
+	- Chia nhỏ yêu cầu thành các nhóm thành phần liên quan
+	- Thiết kế hệ thống kết hợp việc xây dựng guideline về chức năng hệ thống, hiệu suất, bảo mật và đặc điểm, ràng buộc của nền tảng
+		- Platform characteristics có thể là:
+			- Linux Ubuntu
+			- Docker containers
+			- Kubernetes
+			- PostgreSQL
+			- Nginx ...
+	- Truyền đạt nguyên tắc kinh doanh và logic ứng dụng (UI <-> Server)
+- Coding (for quality)
+	- Tuân thủ các thuộc tính bao gồm:
+		- Maintainability
+		- Readability
+		- Testability
+		- Security
+	  - Đáp ứng việc:
+		  - Sạch sẽ và nhất quán
+		  - Dễ đọc và bảo trì
+		  - Well documented
+		  - Hiệu quả
+	  - Các thói quen trong việc lập trình (coding practices):
+		  - Tuân theo coding standards, conventions, patterns and styles
+		  - Sử dụng "linters" để phát hiện lỗi
+		  - Comment code để ng khác dễ hiểu
+- Kiểm thử
+	- Là quy trình để đảm báo phầm mềm chạy đúng với yêu cầu được đặt ra (và ko có lỗi)
+- Releases
+	- Alpha: bản release đầu tiên cho một số bên lquan được chọn, có thể có lỗi và thường là preview của full chức năng
+	- Beta: Dành cho tất cả bên liên quan, nhằm triển khai việc testing, bản này cần đáp ứng đầy đủ các yêu cầu phần mềm
+	- GA (General Availability): Sau khi bản beta đã được chấp thuận, thực hiện và test. Dành cho tất cả người dùng
+- Documenting
+	- System documentation: dành cho team technical, giải thích nguyên lý hoạt động của phần mềm (README, code comment, tài liệu kiến trúc và thiết kế ,...)
+	- User documentation: hướng dẫn người dùng dưới dạng văn bản, video,...

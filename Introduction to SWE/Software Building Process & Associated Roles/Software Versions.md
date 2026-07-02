@@ -1,0 +1,12 @@
+- Phiên bản phần mềm được mô tả qua số phiên bản
+- Số phiên bản cho biết các thông tin:
+	- Khi mà phần mềm được phát hành
+	- Khi mà nó được cập nhật
+	- Nếu có thay đổi hoặc sửa đổi được thực hiện đối với phần mềm
+- Dev sẽ dùng số phiên bản để track các update mới, các bản vá
+
+- Số phiên bản: v 9.1.33.6
+	- Số thứ nhất: "9" - biểu thị các thay đổi lớn đối với phần mềm như là bản release mới
+	- Số thứ hai: "1" - biểu thị các thay đổi nhỏ đã được thực hiện đối với phần mềm
+	- Số thứ ba: "33" - biểu thị các bản vá hoặc sửa lỗi nhỏ
+	- Số thứ tư: "6" - biểu thị số lượng bản build hoặc ngày build, hoặc là những thay đổi ít quan trọng hơn

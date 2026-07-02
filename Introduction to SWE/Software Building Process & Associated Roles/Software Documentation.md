@@ -1,0 +1,32 @@
+Là các thông tin về phần mềm, mô tả sản phẩm là gì và cách sử dụng nó.
+Có thể dưới dạng viết, video hoặc đồ họa liên quan đến việc phát triển sản phẩm phần mềm và sử dụng nó.
+- Phân ra làm 2 loại:
+	- Product - liên hệ tới chức năng của sản phẩm
+		- 5 loại product doc: 
+			- Requirements
+				- Dành cho team dev, kiến trúc và nhân sự QA
+				- Mô tả các tính năng và chức năng dự kiến của sản phẩm
+				- Gồm SRS, SysRS, UAS
+			- Design
+				- Viết bởi các kiến trúc sư phần mềm và team dev để giải thích cách phần mềm được xây dựng sao cho đáp ứng yêu cầu được đề ra 
+				- Gồm tài liệu thiết kế khái niệm và kĩ thuật
+			- Technical 
+				- Chứa comments trong code để hỗ trợ các dev khác
+				- Tài liệu làm việc giải thích cách code hoạt động và tài liệu ghi lại ý tưởng và suy nghĩ của kĩ sư trong thời gian triển khai dự án
+			- QA
+				- Liên quan đến chiến lược, tiến độ và số liệu của team test
+				- Tài liệu test bao gồm: plan, data, scenarios, cases, strategies, traceability matrices
+			- User
+				- Dành cho end-users để giải thích cách vận hành phần mềm hoặc hỗ trợ cài đặt và khắc phục sự cố hệ thống
+	- Process - mô tả cách để hoàn thiện 1 tác vụ
+- Standard operating procedures - SOP
+	- Đi kèm với tài liệu quy trình
+	- Hướng dẫn từng bước cách hoàn thành những tác vụ phổ biến nhưng phức tạp
+	- Ví dụ: hướng dẫn cụ thể của org để checkin code trong 1 repo
+	- Các loại SOP:
+		- Flowchart
+		- Hierarchical outline
+		- Step-by-step instructions
+- Việc cập nhật tài liệu
+	- Cần được cập nhật dưới mọi hình thức
+	- Cần được review và cập nhật theo đợt định kỳ

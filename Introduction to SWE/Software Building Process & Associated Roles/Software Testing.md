@@ -1,0 +1,49 @@
+- Là việc thực hành kết hợp kiểm tra chất lượng xuyên suốt SDLC
+- Mục đích là để:
+	- Kiểm tra xem phần mềm có phù hợp với yêu cầu
+	- Đảm bảo phần mềm không có lỗi
+- Để thực thi test, các team phải viết "test case":
+	- Xác minh chức năng và yêu cầu của phần mềm
+	- Việc viết test case sẽ xuyên suốt SDLC, tùy thuộc vào methodology
+	- Bao gồm: Bước -> Đầu vào -> Dữ liệu -> Đầu ra dự kiến
+- Các loại testing
+	- Functional:
+		- Blackbox: Test mà không xem code hoặc cấu trúc phần mềm
+		- Chỉ quan tâm đến đầu vào và đầu ra dự tính của hệ thống được kiểm tra (SUT - system under test)
+		- Thủ công hoặc tự động
+		- Đảm bảo hệ thống handle lỗi 1 cách hợp lí
+	- Non-functional:
+		- Bao gồm: Hiệu suất - Bảo mật - Khả năng mở rộng - Tính khả dụng
+		- Cố gắng trả lời các câu hỏi:
+			- How does the application behave under stress?
+			- What happens when many users log in at the same time?
+			- Are the instructions consistent with behavior?
+			- How does the application behave under different OSs?
+			- How does the application handle disaster recovery? ​
+			- How secure is the application?
+	- Regression:
+		- Xác nhận các thay đổi không ảnh hưởng xấu đến phần mềm
+		- Diễn ra sau những đợt sửa lỗi hoặc thay đổi trong yêu cầu được áp dụng
+		- ​Các lí do dựa vào để chọn test case cho test hồi quy là:
+			- ​have frequent defects 
+			- contain frequently used functionality
+			- ​contain features with recent changes
+			- ​are complex test cases, ​edge cases
+			- ​randomly successful or failed test cases.
+- Các mức độ test:
+	- Unit:
+		- Test 1 module code
+		- Trong quá trình build trong SDLC, thực hiện bởi dev
+		- Loại bỏ lỗi trước khi tích hợp với module khác
+	- Integration:
+		- Xác định lỗi khi 2 hoặc nhiều modules được kết hợp với nhau
+		- 1 loại của black-box test
+		- Diễn ra khi các module đã được tích hợp với hệ thống lớn
+	- System:
+		- Diễn ra sau Integration để đánh giá tính tuân thủ của 1 hệ thống đã được tích hợp với các yêu cầu được đề ra (SRS)
+		- Nó xác thực hệ thống là 1 sản phẩm phần mềm hoàn chỉnh
+		- Có cả functional và non-functional
+		- Thường thực hiện ở môi trường staging
+	- Acceptance:
+		- Kiểm tra xem hệ thống đáp ứng nhu cầu của người dùng, khách hàng và các bên liên quan
+		- Được thực hiện bới khách hàng hoặc các bên liên quan ở stage maintenance trong SDLC
