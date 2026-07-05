@@ -35,3 +35,6 @@
 - employ: sử dụng
 - bridge: cầu, kết nối
 - flair: phong cách
+- simply put: nói đơn giản
+- conflate: kết hợp
+- agility: linh hoạt
