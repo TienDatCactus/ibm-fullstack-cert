@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to SWE/Software Building Process & Associated Roles/Roles in SWE Projects.md",
+                "file": "English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles in SWE Projects"
+              "title": "English"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English.md",
+                "file": "Introduction to SWE/Basics of Programming/Query & Assembly PL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "Query & Assembly PL"
             }
           }
         ],
@@ -199,11 +199,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f8c84ba3a6d0c52d",
+  "active": "68cad40bdcc60576",
   "lastOpenFiles": [
-    "Introduction to SWE/Software Building Process & Associated Roles/Roles in SWE Projects.md",
-    "Introduction to SWE/Software Building Process & Associated Roles/Untitled.md",
+    "Introduction to SWE/Basics of Programming/Query & Assembly PL.md",
+    "Untitled.md",
+    "Introduction to SWE/Basics of Programming/Intepreted & Compiled Progamming Languages.md",
     "English.md",
+    "Introduction to SWE/Software Building Process & Associated Roles/Roles in SWE Projects.md",
+    "Introduction to SWE/Basics of Programming",
+    "Introduction to SWE/Software Development/Overview of Web & Cloud Development.md",
+    "Introduction to SWE/Software Development",
+    "Introduction to SWE/Software Building Process & Associated Roles/Untitled.md",
     "Introduction to SWE/Software Building Process & Associated Roles/Software Testing.md",
     "Introduction to SWE/Software Building Process & Associated Roles/Software Versions.md",
     "Introduction to SWE/Software Building Process & Associated Roles/Software Documentation.md",
