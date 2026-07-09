@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a79a242b36d33cf",
+            "id": "f8c84ba3a6d0c52d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,6 +201,16 @@
   },
   "active": "68cad40bdcc60576",
   "lastOpenFiles": [
+    "Introduction to SWE/Tools/Các tools.md",
+    "Introduction to SWE/Tools",
+    "Introduction to SWE/Software Architecture, Design, and Patterns/Untitled.md",
+    "Introduction to SWE/Software Architecture, Design, and Patterns/Software Design and Modeling.md",
+    "Introduction to SWE/Software Architecture, Design, and Patterns/Software Architecture and Desgin.md",
+    "Introduction to SWE/Software Architecture, Design, and Patterns/OOAD.md",
+    "Introduction to SWE/Software Architecture, Design, and Patterns",
+    "Introduction to SWE/Programming Logic & Concept/Identifier.md",
+    "Introduction to SWE/Programming Logic & Concept/Functions & Objects.md",
+    "Introduction to SWE/Programming Logic & Concept",
     "Introduction to SWE/Basics of Programming/Query & Assembly PL.md",
     "Untitled.md",
     "Introduction to SWE/Basics of Programming/Intepreted & Compiled Progamming Languages.md",
